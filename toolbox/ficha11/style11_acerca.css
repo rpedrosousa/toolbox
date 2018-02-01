@@ -1,0 +1,71 @@
+body{
+    background-color: #f8f9fa
+}
+
+.cor-principal {
+    color: crimson;
+    }
+   h1 {
+    font-weight: 900;
+    height: 36px;
+    margin: 0;
+    line-height: 0.8;
+    }
+   
+
+       
+
+       .home-food img {
+        border-radius: 50%;
+        max-width: 100%;
+        height: auto;
+        }
+
+
+
+        footer {
+            color: white;
+            }
+           footer .container .col-lg-12{
+            background-color: rgb(61, 58, 58);
+            
+           }
+           .social-media a {
+            
+            color: white;
+            text-decoration: none;
+            }
+           .social-media a:hover {
+            color: grey;
+            }
+           
+
+.socialicon{
+    
+    width: 15px;
+    height: 15px;
+
+}
+
+.margin {
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+.margin1 {
+
+    line-height: 0.5;
+}
+
+.left{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.fundo{
+    background-color: white;
+    margin:0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
